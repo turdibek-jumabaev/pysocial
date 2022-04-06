@@ -1,7 +1,9 @@
 # uztube
 ```YouTube video yuklovchi - xobbi uchun kichik loyha```
 
-#### Foydalanish
+## Foydalanish
+
+#### YouTube Video sarlavhasini olish
 ```python
 from uztube import YouTube
 
